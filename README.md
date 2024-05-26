@@ -37,8 +37,8 @@ IncognoChat is a fully open source Flutter chat application that prioritizes use
 
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/ravanalaskarov/ingocno-chat.git
-   cd IncognoChat
+   git clone https://github.com/ravanalaskarov/incognochat.git
+   cd incognochat
    ```
 
 2. **Setup Firebase**
