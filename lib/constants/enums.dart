@@ -1,0 +1,1 @@
+enum MessagePosition { first, middle, last, single }

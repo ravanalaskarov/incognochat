@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638060826948",
+    "project_id": "incognochat",
+    "storage_bucket": "incognochat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638060826948:android:0f2d43ce3bc993d4570711",
+        "android_client_info": {
+          "package_name": "com.example.incognochat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDua-h_grCbD1NvmzJGeBTrd0XCyENJ4EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
